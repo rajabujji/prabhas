@@ -1,0 +1,81 @@
+    1  cd ..
+    2  touch raja
+    3  vi raja
+    4  cat raja
+    5  vi mohan
+    6  cat mohan
+    7  cp mohan raja
+    8  cat mohan
+    9  cat raja
+   10  mv raja mohan
+   11  ls -la
+   12  clear
+   13  exit
+   14  ls
+   15  cd /home/ec2-user
+   16  ls
+   17  cat os
+   18  cat /etc
+   19  cat /etc/os -release
+   20  cat /etc/os-release
+   21  histor
+   22  sudo -su Raja
+   23  touch raja 
+   24  vi raja
+   25  mkdir raja
+   26  mkdir Raja
+   27  ls
+   28  useradd Raja
+   29  passwd Raja
+   30  vi /etc/ssh/sshd_config
+   31  systemctl restart sshd
+   32  visudo
+   33  clear
+   34  sudo -i
+   35  aws s3 mb s3://mohan
+   36  aws s3 mb s3://rajamohan
+   37  aws s3 mb s3://hanumanth
+   38  aws s3 mb s3://raja
+   39  aws s3 mb s3://hanumanth
+   40  aws s3 mb s3://narenhanumantharaja
+   41  aws s3 ls
+   42  ls
+   43  aws s3 cp teja s3://narenhanumantharaja
+   44  touch darling 
+   45  ls
+   46  aws s3 cp darling s3://narenhanumantharaja
+   47  aws s3 rm s3://narenhanumantharaja/darling
+   48  aws s3 mv darling s3://narenhanumatharaja
+   49  ls
+   50  history
+   51  clear
+   52  sudo -i
+   53  aws s3 ls
+   54  aws s3 mb s3://storageservice
+   55  aws s3 mb s3://rajamohan
+   56  aws version
+   57  clear 
+   58  aws version
+   59  aws --version
+   60  aws configure
+   61  aws ec2 stop-instances --instance-ids i-05b908fd63883be83
+   62  aws configure
+   63  aws ec2 stop-instances --instance-ids 
+   64  aws ec2 stop-instances --instance-ids i-0db897d6acac52568
+   65  aws configure --profile hanuama
+   66  aws ec2 start-instances --instance-ids i-0b7a64d28e605790a  
+   67  aws ec2 start-instances --instance-ids i-0b7a64d28e605790a
+   68  aws ec2 start-instances --instance-ids i-0b7a64d28e605790a --profile hanuama
+   69  aws s3 mb s3://hanumanthu
+   70  touch r1 r2 r3 
+   71  aws s3 sync . s3://hanumanthu
+   72  aws s3 rm s3://hanumanthu --recursive
+   73  aws s3 rb s3://hanumanthu
+   74  aws s3 mb s3://hanumanthu --profile hanuama
+   75  aws s3 mb s3://hanumanthu@ --profile hanuama
+   76  aws s3 mb s3://hanumanthuu --profile hanuama
+   77  ls
+   78  aws s3 sync . s3://hanumanthuu --profile hanuama
+   79  aws s3 rm  s3://hanumanthuu --recursive  --profile hanuama 
+   80  aws s3 rb  s3://hanumanthuu --profile hanuama 
+   81  history >> bujji
